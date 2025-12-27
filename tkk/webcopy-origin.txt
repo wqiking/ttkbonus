@@ -1,0 +1,96 @@
+Uri: https://docevidamae.fun/wp-content/uploads/2025/11/2560px-TikTok_logo.svg-3929532568.png
+File Name: C:\Downloaded Web Sites\nortnovomundo.fun\wp-content\uploads\2025\11\2560px-TikTok_logo.svg-3929532568.png
+Content Type: image/png
+
+Uri: https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap
+File Name: C:\Downloaded Web Sites\nortnovomundo.fun\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYMZg.ttf
+File Name: C:\Downloaded Web Sites\nortnovomundo.fun\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuGKYMZg.ttf
+File Name: C:\Downloaded Web Sites\nortnovomundo.fun\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuGKYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuI6fMZg.ttf
+File Name: C:\Downloaded Web Sites\nortnovomundo.fun\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuI6fMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfMZg.ttf
+File Name: C:\Downloaded Web Sites\nortnovomundo.fun\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://nortnovomundo.fun/
+File Name: C:\Downloaded Web Sites\nortnovomundo.fun\index.htm
+Content Type: text/html
+
+Uri: https://nortnovomundo.fun/.netlify/scripts/rum
+File Name: C:\Downloaded Web Sites\nortnovomundo.fun\.netlify\scripts\rum
+Content Type: application/javascript
+
+Uri: https://nortnovomundo.fun/css/style.css
+File Name: C:\Downloaded Web Sites\nortnovomundo.fun\css\style.css
+Content Type: text/css
+
+Uri: https://nortnovomundo.fun/images/bacen.png
+File Name: C:\Downloaded Web Sites\nortnovomundo.fun\images\bacen.png
+Content Type: image/png
+
+Uri: https://nortnovomundo.fun/images/fi-bs-check.svg
+File Name: C:\Downloaded Web Sites\nortnovomundo.fun\images\fi-bs-check.svg
+Content Type: image/svg+xml
+
+Uri: https://nortnovomundo.fun/images/fi-rs-credit-card.png
+File Name: C:\Downloaded Web Sites\nortnovomundo.fun\images\fi-rs-credit-card.png
+Content Type: image/png
+
+Uri: https://nortnovomundo.fun/images/flor.png
+File Name: C:\Downloaded Web Sites\nortnovomundo.fun\images\flor.png
+Content Type: image/png
+
+Uri: https://nortnovomundo.fun/images/gol.png
+File Name: C:\Downloaded Web Sites\nortnovomundo.fun\images\gol.png
+Content Type: image/png
+
+Uri: https://nortnovomundo.fun/images/gov-br.webp
+File Name: C:\Downloaded Web Sites\nortnovomundo.fun\images\gov-br.webp
+Content Type: image/webp
+
+Uri: https://nortnovomundo.fun/images/p-assista.svg
+File Name: C:\Downloaded Web Sites\nortnovomundo.fun\images\p-assista.svg
+Content Type: image/svg+xml
+
+Uri: https://nortnovomundo.fun/images/p-dia.svg
+File Name: C:\Downloaded Web Sites\nortnovomundo.fun\images\p-dia.svg
+Content Type: image/svg+xml
+
+Uri: https://nortnovomundo.fun/images/p-saldo-maior.png
+File Name: C:\Downloaded Web Sites\nortnovomundo.fun\images\p-saldo-maior.png
+Content Type: image/png
+
+Uri: https://nortnovomundo.fun/images/p-saldo.svg
+File Name: C:\Downloaded Web Sites\nortnovomundo.fun\images\p-saldo.svg
+Content Type: image/svg+xml
+
+Uri: https://nortnovomundo.fun/images/parabens-img.png
+File Name: C:\Downloaded Web Sites\nortnovomundo.fun\images\parabens-img.png
+Content Type: image/png
+
+Uri: https://nortnovomundo.fun/images/pix-logo.svg
+File Name: C:\Downloaded Web Sites\nortnovomundo.fun\images\pix-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://nortnovomundo.fun/images/pix-solo.svg
+File Name: C:\Downloaded Web Sites\nortnovomundo.fun\images\pix-solo.svg
+Content Type: image/svg+xml
+
+Uri: https://nortnovomundo.fun/images/receitafederal.png
+File Name: C:\Downloaded Web Sites\nortnovomundo.fun\images\receitafederal.png
+Content Type: image/png
+
+Uri: https://nortnovomundo.fun/js/main.js
+File Name: C:\Downloaded Web Sites\nortnovomundo.fun\js\main.js
+Content Type: application/javascript
+
